@@ -9,8 +9,7 @@ There is a standard table tennis match. Players take turns doing 2 serves until 
 Let's say we have 2 parameters:
 - p1 - the probability of taking the round (serving) by the first player on his own filing.
 - p2 - the probability of taking the round (serve) by the first player on the serve opponent.
-
-------------
+⠀
 
 **Tasks**
 1. We believe that the match does not go into overtime (with a score of 10-10, the game ends). It is necessary to implement an algorithm that takes as input p1 and p2, and outputs the distribution of final scores in the format {(score1, score2): probability} in three ways:
